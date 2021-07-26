@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 # On each iteration I need to access the db to get the size (percent ownership),
 # corp color, and name for face label for each of the children (owner) corps.
 # Size determines dx, dy through normalization of the containing square,
-# so on each iteration I need to bring along the size of the containing square.
+# so on each iteration I need to bring along the containing squares.
 # x, y, dx, dy of each new contained square are determined through squarify.
 
 

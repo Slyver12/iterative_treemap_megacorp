@@ -1,0 +1,878 @@
+parent,child,ownership,owner_type,color
+Blackrock Inc,Merrill Lynch Co Inc,0.4401,Insider,#ff2f00
+Blackrock Inc,Vanguard Group Inc,0.0792,Institution,#651c9c
+Blackrock Inc,Blackrock Inc,0.0646,Institution,#0b0bff
+Blackrock Inc,Capital World Investors,0.0493,Institution,#8502ff
+Blackrock Inc,State Street Corp,0.0416,Institution,#05e2ff
+Blackrock Inc,Temasek Holdings Private Ltd,0.039,Institution,#02ff8d
+Blackrock Inc,Bank Of America Corp,0.0389,Institution,#ff2f00
+Blackrock Inc,Wellington Management Group Llp,0.0311,Institution,#5eff01
+Blackrock Inc,Fmr LLC,0.023,Institution,#c8ff00
+Blackrock Inc,Capital International Investors,0.018,Institution,#8502ff
+Blackrock Inc,Column Capital Advisors LLC,0.0177,Institution,#c30fff
+Blackrock Inc,Wells Fargo Company,0.016,Institution,#fff700
+Blackrock Inc,Jpmorgan Chase Co,0.0159,Institution,#42649e
+Blackrock Inc,Morgan Stanley,0.0151,Institution,#ff1097
+Blackrock Inc,Ameriprise Financial Inc,0.014,Institution,#ffcc00
+Blackrock Inc,Geode Capital Management LLC,0.0137,Institution,#76bf3d
+Blackrock Inc,Northern Trust Corp,0.0133,Institution,#ffb300
+Blackrock Inc,Massachusetts Financial Services Co,0.0119,Institution,#c271b4
+Blackrock Inc,Charles Schwab Investment Management,0.0112,Institution,#233c8c
+Blackrock Inc,Bank Of New York Mellon,0.0075,Institution,#fb02ff
+Blackrock Inc,Ubs Group Ag,0.0067,Institution,#ccb762
+Blackrock Inc,Legal General Group PLC,0.0065,Institution,#ff6200
+Blackrock Inc,Flossbach Von Storch Ag,0.006,Institution,#ac88cf
+Blackrock Inc,Retail,0.0079,Retail,#ffffff
+Blackrock Inc,Insider,0.0118,Insider,#797979
+Blackrock Inc,Self,1E-09,Self,#0b0bff
+Merrill Lynch Co Inc,Berkshire Hathaway Inc,0.2395,Insider,#c7996f
+Merrill Lynch Co Inc,Berkshire Hathaway Inc,0.1179,Institution,#c7996f
+Merrill Lynch Co Inc,Vanguard Group Inc,0.0725,Institution,#651c9c
+Merrill Lynch Co Inc,Blackrock Inc,0.0598,Institution,#0b0bff
+Merrill Lynch Co Inc,State Street Corp,0.0391,Institution,#05e2ff
+Merrill Lynch Co Inc,Fmr LLC,0.0268,Institution,#c8ff00
+Merrill Lynch Co Inc,Wellington Management Group Llp,0.0201,Institution,#5eff01
+Merrill Lynch Co Inc,Price T Rowe Associates Inc,0.0146,Institution,#af03ff
+Merrill Lynch Co Inc,Capital World Investors,0.0138,Institution,#8502ff
+Merrill Lynch Co Inc,Geode Capital Management LLC,0.0135,Institution,#76bf3d
+Merrill Lynch Co Inc,Jpmorgan Chase Co,0.0123,Institution,#42649e
+Merrill Lynch Co Inc,Northern Trust Corp,0.0095,Institution,#ffb300
+Merrill Lynch Co Inc,Dodge Cox,0.0092,Institution,#ebb3ff
+Merrill Lynch Co Inc,Bank Of New York Mellon,0.0083,Institution,#fb02ff
+Merrill Lynch Co Inc,Harris Associates L P,0.008,Institution,#34173d
+Merrill Lynch Co Inc,Ameriprise Financial Inc,0.0073,Institution,#ffcc00
+Merrill Lynch Co Inc,Morgan Stanley,0.0073,Institution,#ff1097
+Merrill Lynch Co Inc,Invesco Ltd,0.006,Institution,#244513
+Merrill Lynch Co Inc,Nuveen Asset Management LLC,0.0056,Institution,#474429
+Merrill Lynch Co Inc,Legal General Group PLC,0.0054,Institution,#ff6200
+Merrill Lynch Co Inc,Franklin Resources Inc,0.005,Institution,#4a2e32
+Merrill Lynch Co Inc,Primecap Management Co,0.0048,Institution,#45374d
+Merrill Lynch Co Inc,Dimensional Fund Advisors LP,0.0043,Institution,#32524a
+Merrill Lynch Co Inc,Charles Schwab Investment Management,0.0043,Institution,#233c8c
+Merrill Lynch Co Inc,Lazard Asset Management LLC,0.0039,Institution,#1b540c
+Merrill Lynch Co Inc,Other Institution,0.2223,Institution,#000000
+Merrill Lynch Co Inc,Retail,0.0523,Retail,#ffffff
+Merrill Lynch Co Inc,Insider,0.0066,Insider,#797979
+Merrill Lynch Co Inc,Self,1E-09,Self,#ff2f00
+State Street Corp,Vanguard Group Inc,0.0938,Institution,#651c9c
+State Street Corp,Blackrock Inc,0.0746,Institution,#0b0bff
+State Street Corp,Dodge Cox,0.0581,Institution,#ebb3ff
+State Street Corp,State Street Corp,0.05,Institution,#05e2ff
+State Street Corp,Fmr LLC,0.0457,Institution,#c8ff00
+State Street Corp,Price T Rowe Associates Inc,0.0369,Institution,#af03ff
+State Street Corp,Longview Partners Guernsey Ltd,0.033,Institution,#45572f
+State Street Corp,Capital International Investors,0.0317,Institution,#8502ff
+State Street Corp,Jpmorgan Chase Co,0.0271,Institution,#42649e
+State Street Corp,Bank Of America Corp,0.0237,Institution,#ff2f00
+State Street Corp,Geode Capital Management LLC,0.0184,Institution,#76bf3d
+State Street Corp,Ameriprise Financial Inc,0.0179,Institution,#ffcc00
+State Street Corp,Harris Associates L P,0.0142,Institution,#34173d
+State Street Corp,Invesco Ltd,0.0128,Institution,#244513
+State Street Corp,Northern Trust Corp,0.0127,Institution,#ffb300
+State Street Corp,Lsv Asset Management,0.0115,Institution,#44335c
+State Street Corp,Massachusetts Financial Services Co,0.0112,Institution,#c271b4
+State Street Corp,Goldman Sachs Group Inc,0.0103,Institution,#c9b835
+State Street Corp,Yacktman Asset Management LP,0.0102,Institution,#7cad3d
+State Street Corp,Ninety One Uk Ltd,0.0092,Institution,#529bb3
+State Street Corp,Bank Of New York Mellon,0.0087,Institution,#fb02ff
+State Street Corp,Legal General Group PLC,0.0085,Institution,#ff6200
+State Street Corp,Hotchkis Wiley Capital Management LLC,0.0082,Institution,#8a84b8
+State Street Corp,Manufacturers Life Insurance Company The,0.0077,Institution,#bd6f91
+State Street Corp,Coho Partners Ltd,0.0073,Institution,#c29876
+State Street Corp,Other Institution,0.2627,Institution,#000000
+State Street Corp,Retail,0.0723,Retail,#ffffff
+State Street Corp,Insider,0.0216,Insider,#797979
+State Street Corp,Self,1E-09,Self,#05e2ff
+Bank Of America Corp,Berkshire Hathaway Inc,0.2395,Insider,#c7996f
+Bank Of America Corp,Berkshire Hathaway Inc,0.1179,Institution,#c7996f
+Bank Of America Corp,Vanguard Group Inc,0.0725,Institution,#651c9c
+Bank Of America Corp,Blackrock Inc,0.0598,Institution,#0b0bff
+Bank Of America Corp,State Street Corp,0.0391,Institution,#05e2ff
+Bank Of America Corp,Fmr LLC,0.0268,Institution,#c8ff00
+Bank Of America Corp,Wellington Management Group Llp,0.0201,Institution,#5eff01
+Bank Of America Corp,Price T Rowe Associates Inc,0.0146,Institution,#af03ff
+Bank Of America Corp,Capital World Investors,0.0138,Institution,#8502ff
+Bank Of America Corp,Geode Capital Management LLC,0.0135,Institution,#76bf3d
+Bank Of America Corp,Jpmorgan Chase Co,0.0123,Institution,#42649e
+Bank Of America Corp,Northern Trust Corp,0.0095,Institution,#ffb300
+Bank Of America Corp,Dodge Cox,0.0092,Institution,#ebb3ff
+Bank Of America Corp,Bank Of New York Mellon,0.0083,Institution,#fb02ff
+Bank Of America Corp,Harris Associates L P,0.008,Institution,#34173d
+Bank Of America Corp,Ameriprise Financial Inc,0.0073,Institution,#ffcc00
+Bank Of America Corp,Morgan Stanley,0.0073,Institution,#ff1097
+Bank Of America Corp,Invesco Ltd,0.006,Institution,#244513
+Bank Of America Corp,Nuveen Asset Management LLC,0.0056,Institution,#474429
+Bank Of America Corp,Legal General Group PLC,0.0054,Institution,#ff6200
+Bank Of America Corp,Franklin Resources Inc,0.005,Institution,#4a2e32
+Bank Of America Corp,Primecap Management Co,0.0048,Institution,#45374d
+Bank Of America Corp,Dimensional Fund Advisors LP,0.0043,Institution,#32524a
+Bank Of America Corp,Charles Schwab Investment Management,0.0043,Institution,#233c8c
+Bank Of America Corp,Lazard Asset Management LLC,0.0039,Institution,#1b540c
+Bank Of America Corp,Other Institution,0.2223,Institution,#000000
+Bank Of America Corp,Retail,0.0523,Retail,#ffffff
+Bank Of America Corp,Insider,0.0066,Insider,#797979
+Bank Of America Corp,Self,1E-09,Self,#ff2f00
+Vanguard Group Inc,Charles Schwab Investment Management,0.11,Institution,#233c8c
+Vanguard Group Inc,National Financial Services Corp,0.01,Institution,#453626
+Vanguard Group Inc,Ascensus Trust Company,0.04,Institution,#c76122
+Vanguard Group Inc,Fidelity Investments,0.12,Institution,#294a20
+Vanguard Group Inc,TIAA,0.05,Institution,#cc668c
+Vanguard Group Inc,Johns Hopkins,0.03,Institution,#726bd1
+Vanguard Group Inc,JNL Series Trust,0.01,Institution,#8dd663
+Vanguard Group Inc,Prudential Investment SVCS LLC,0.0527,Institution,#5c3828
+Vanguard Group Inc,Northern Trust Corp,0.0737,Institution,#ffb300
+Vanguard Group Inc,Jpmorgan Chase Co,0.03,Institution,#42649e
+Vanguard Group Inc,TD Ameritrade,0.03,Institution,#e02a12
+Vanguard Group Inc,Ubs Group Ag,0.01,Institution,#ccb762
+Vanguard Group Inc,Wells Fargo Company,0.02,Institution,#fff700
+Vanguard Group Inc,Morgan Stanley,0.05,Institution,#ff1097
+Vanguard Group Inc,Ridge Clearing Inc.,0.01,Institution,#5e49eb
+Vanguard Group Inc,Merrill Lynch Co Inc,0.11,Institution,#ff2f00
+Vanguard Group Inc,Vanguard Group Inc,0.12,Institution,#651c9c
+Vanguard Group Inc,Other Institution,0.1136,Institution,#000000
+Vanguard Group Inc,Retail,0.01,Retail,#ffffff
+Vanguard Group Inc,Self,1E-09,Self,#651c9c
+Self,Self,1,Self, 
+Insider,Insider,1,Insider,#797979
+Retail,Retail,1,Retail,#ffffff
+Other Institution,Other Institution,1,Institution,#000000
+Default,Default,0.0625,Institution,#0e03db
+Default,Default,0.0625,Institution,#e32a00
+Default,Default,0.0625,Institution,#9be800
+Default,Default,0.0625,Institution,#ed00c2
+Default,Default,0.0625,Institution,#05f2f2
+Default,Default,0.0625,Institution,#f79000
+Default,Default,0.0625,Institution,#fce300
+Default,Default,0.0625,Institution,#63a341
+Default,Default,0.0625,Institution,#4b4ea6
+Default,Default,0.0625,Institution,#ab5d5b
+Default,Default,0.0625,Institution,#b067a7
+Default,Default,0.0625,Institution,#3c7372
+Default,Default,0.0625,Institution,#b09e4d
+Default,Default,0.0625,Institution,#6fb56f
+Default,Default,0.0625,Institution,#bd4940
+Default,Default,0.0625,Institution,#b83abf
+Berkshire Hathaway Inc,Vanguard Group Inc,0.1023,Institution,#651c9c
+Berkshire Hathaway Inc,Blackrock Inc,0.0817,Institution,#0b0bff
+Berkshire Hathaway Inc,State Street Corp,0.0591,Institution,#05e2ff
+Berkshire Hathaway Inc,Bill Melinda Gates Foundation Trust,0.0583,Insider,#d92643
+Berkshire Hathaway Inc,Bill Melinda Gates Foundation Trust,0.0280,Institution,#d92643
+Berkshire Hathaway Inc,Geode Capital Management LLC,0.0212,Institution,#76bf3d
+Berkshire Hathaway Inc,Northern Trust Corp,0.0144,Institution,#ffb300
+Berkshire Hathaway Inc,Bank Of New York Mellon,0.0109,Institution,#fb02ff
+Berkshire Hathaway Inc,Morgan Stanley,0.0096,Institution,#ff1097
+Berkshire Hathaway Inc,Bank Of America Corp,0.0084,Institution,#ff2f00
+Berkshire Hathaway Inc,Fmr LLC,0.0078,Institution,#c8ff00
+Berkshire Hathaway Inc,Jpmorgan Chase Co,0.0067,Institution,#42649e
+Berkshire Hathaway Inc,Charles Schwab Investment Management,0.0063,Institution,#233c8c
+Berkshire Hathaway Inc,Nuveen Asset Management LLC,0.0060,Institution,#474429
+Berkshire Hathaway Inc,Legal General Group PLC,0.0059,Institution,#ff6200
+Berkshire Hathaway Inc,Hh International Investment LLC,0.0058,Institution,#e7d618
+Berkshire Hathaway Inc,Royal Bank Of Canada,0.0056,Institution,#dc4223
+Berkshire Hathaway Inc,Dimensional Fund Advisors LP,0.0052,Institution,#32524a
+Berkshire Hathaway Inc,Flossbach Von Storch Ag,0.0050,Institution,#ac88cf
+Berkshire Hathaway Inc,Wells Fargo Company,0.0045,Institution,#fff700
+Berkshire Hathaway Inc,Price T Rowe Associates Inc,0.0040,Institution,#af03ff
+Berkshire Hathaway Inc,Ubs Asset Management Americas Inc,0.0039,Institution,#ccb762
+Berkshire Hathaway Inc,Parametric Portfolio Associates LLC,0.0038,Institution,#563dc2
+Berkshire Hathaway Inc,Alliance Bernstein LP,0.0036,Institution,#3dc283
+Berkshire Hathaway Inc,Eagle Capital Management LLC 1,0.0035,Institution,#b14e55
+Berkshire Hathaway Inc,Other Institution,0.1822,Institution,#000000
+Berkshire Hathaway Inc,Insider,0.0584,Insider,#797979
+Berkshire Hathaway Inc,Retail,0.2879,Retail,#ffffff
+Berkshire Hathaway Inc,Self,1E-09,Self,#c7996f
+Wells Fargo Company,Berkshire Hathaway Inc,0.2428,Insider,#c7996f
+Wells Fargo Company,Vanguard Group Inc,0.0792,Institution,#651c9c
+Wells Fargo Company,Blackrock Inc,0.0686,Institution,#0b0bff
+Wells Fargo Company,State Street Corp,0.0426,Institution,#05e2ff
+Wells Fargo Company,Fmr LLC,0.0401,Institution,#c8ff00
+Wells Fargo Company,Dodge Cox,0.0358,Institution,#ebb3ff
+Wells Fargo Company,Price T Rowe Associates Inc,0.0312,Institution,#af03ff
+Wells Fargo Company,Jpmorgan Chase Co,0.0163,Institution,#42649e
+Wells Fargo Company,Geode Capital Management LLC,0.0149,Institution,#76bf3d
+Wells Fargo Company,State Farm Mutual Automobile Insurance Co,0.0125,Institution,#d04d2f
+Wells Fargo Company,Primecap Management Co,0.0120,Institution,#45374d
+Wells Fargo Company,Sanders Capital LLC,0.0116,Institution,#3cc39f
+Wells Fargo Company,Northern Trust Corp,0.0108,Institution,#ffb300
+Wells Fargo Company,Eagle Capital Management LLC 1,0.0104,Institution,#b14e55
+Wells Fargo Company,Davis Selected Advisers,0.0099,Institution,#afbf40
+Wells Fargo Company,Invesco Ltd,0.0090,Institution,#244513
+Wells Fargo Company,Hotchkis Wiley Capital Management LLC,0.0087,Institution,#8a84b8
+Wells Fargo Company,Bank Of New York Mellon,0.0077,Institution,#fb02ff
+Wells Fargo Company,Alliance Bernstein LP,0.0070,Institution,#3dc283
+Wells Fargo Company,Ubs Asset Management Americas Inc,0.0062,Institution,#ccb762
+Wells Fargo Company,Bank Of America Corp,0.0056,Institution,#ff2f00
+Wells Fargo Company,Morgan Stanley,0.0055,Institution,#ff1097
+Wells Fargo Company,Legal General Group PLC,0.0055,Institution,#ff6200
+Wells Fargo Company,Charles Schwab Investment Management,0.0053,Institution,#233c8c
+Wells Fargo Company,Pzena Investment Management LLC,0.0049,Institution,#8a43bc
+Wells Fargo Company,Retail,0.0612,Retail,#ffffff
+Wells Fargo Company,Other Institution,0.2347,Institution,#000000
+Wells Fargo Company,Self,1E-09,Self,#fff700
+Charles Schwab Investment Management,Insider,0.1297,Insider,#797979
+Charles Schwab Investment Management,Vanguard Group Inc,0.0604,Institution,#651c9c
+Charles Schwab Investment Management,Blackrock Inc,0.0571,Institution,#0b0bff
+Charles Schwab Investment Management,Price T Rowe Associates Inc,0.0428,Institution,#af03ff
+Charles Schwab Investment Management,Wellington Management Group Llp,0.0426,Institution,#5eff01
+Charles Schwab Investment Management,Dodge Cox,0.0409,Institution,#ebb3ff
+Charles Schwab Investment Management,State Street Corp,0.0346,Institution,#05e2ff
+Charles Schwab Investment Management,Jpmorgan Chase Co,0.0219,Institution,#42649e
+Charles Schwab Investment Management,Massachusetts Financial Services Co,0.0185,Institution,#c271b4
+Charles Schwab Investment Management,Primecap Management Co,0.0156,Institution,#45374d
+Charles Schwab Investment Management,Geode Capital Management LLC,0.0118,Institution,#76bf3d
+Charles Schwab Investment Management,Alliance Bernstein LP,0.0110,Institution,#3dc283
+Charles Schwab Investment Management,Northern Trust Corp,0.0097,Institution,#ffb300
+Charles Schwab Investment Management,Generation Investment Management Llp,0.0094,Institution,#8b728d
+Charles Schwab Investment Management,Parnassus Investments,0.0087,Institution,#e7f609
+Charles Schwab Investment Management,Citigroup Inc,0.0068,Institution,#b54a98
+Charles Schwab Investment Management,Bank Of New York Mellon,0.0068,Institution,#fb02ff
+Charles Schwab Investment Management,Harris Associates L P,0.0065,Institution,#34173d
+Charles Schwab Investment Management,Nuveen Asset Management LLC,0.0065,Institution,#474429
+Charles Schwab Investment Management,Bank Of America Corp,0.0065,Institution,#ff2f00
+Charles Schwab Investment Management,American Century Companies Inc,0.0064,Institution,#12ed76
+Charles Schwab Investment Management,Fmr LLC,0.0053,Institution,#c8ff00
+Charles Schwab Investment Management,Amundi Asset Management Us Inc,0.0051,Institution,#3656c9
+Charles Schwab Investment Management,Ninety One Uk Ltd,0.0051,Institution,#529bb3
+Charles Schwab Investment Management,Legal General Group PLC,0.0049,Institution,#ff6200
+Charles Schwab Investment Management,Retail,0.1881,Retail,#ffffff
+Charles Schwab Investment Management,Other Institution,0.2373,Institution,#000000
+Charles Schwab Investment Management,Self,1E-09,Self,#233c8c
+Jpmorgan Chase Co,Vanguard Group Inc,0.0869,Institution,#651c9c
+Jpmorgan Chase Co,Blackrock Inc,0.0655,Institution,#0b0bff
+Jpmorgan Chase Co,State Street Corp,0.0469,Institution,#05e2ff
+Jpmorgan Chase Co,Capital World Investors,0.0262,Institution,#8502ff
+Jpmorgan Chase Co,Bank Of America Corp,0.0188,Institution,#ff2f00
+Jpmorgan Chase Co,Wellington Management Group Llp,0.0185,Institution,#5eff01
+Jpmorgan Chase Co,Fmr LLC,0.0156,Institution,#c8ff00
+Jpmorgan Chase Co,Geode Capital Management LLC,0.0150,Institution,#76bf3d
+Jpmorgan Chase Co,Capital Research Global Investors,0.0150,Institution,#8502ff
+Jpmorgan Chase Co,Northern Trust Corp,0.0133,Institution,#ffb300
+Jpmorgan Chase Co,Capital International Investors,0.0127,Institution,#8502ff
+Jpmorgan Chase Co,Morgan Stanley,0.0125,Institution,#ff1097
+Jpmorgan Chase Co,Massachusetts Financial Services Co,0.0109,Institution,#c271b4
+Jpmorgan Chase Co,Bank Of New York Mellon,0.0101,Institution,#fb02ff
+Jpmorgan Chase Co,Wells Fargo Company,0.0089,Institution,#fff700
+Jpmorgan Chase Co,Royal Bank Of Canada,0.0084,Institution,#dc4223
+Jpmorgan Chase Co,Insider,0.0180,Insider,#797979
+Jpmorgan Chase Co,Price T Rowe Associates Inc,0.0074,Institution,#af03ff
+Jpmorgan Chase Co,Nuveen Asset Management LLC,0.0072,Institution,#474429
+Jpmorgan Chase Co,Ameriprise Financial Inc,0.0071,Institution,#ffcc00
+Jpmorgan Chase Co,Franklin Resources Inc,0.0068,Institution,#4a2e32
+Jpmorgan Chase Co,Dimensional Fund Advisors LP,0.0067,Institution,#32524a
+Jpmorgan Chase Co,Legal General Group PLC,0.0060,Institution,#ff6200
+Jpmorgan Chase Co,Ubs Group Ag,0.0057,Institution,#ccb762
+Jpmorgan Chase Co,Charles Schwab Investment Management,0.0055,Institution,#233c8c
+Jpmorgan Chase Co,Retail,0.0737,Retail,#ffffff
+Jpmorgan Chase Co,Other Institution,0.4707,Institution,#000000
+Jpmorgan Chase Co,Self,1E-09,Self,#42649e
+Sinclair Broadcasting Group,HG Vora Capital Management,0.0921,Institution,#3e3cc3
+Sinclair Broadcasting Group,Vanguard Group Inc,0.0890,Institution,#651c9c
+Sinclair Broadcasting Group,Blackrock Inc,0.0721,Institution,#0b0bff
+Sinclair Broadcasting Group,Contrarius Investment Management,0.0713,Institution,#c13e57
+Sinclair Broadcasting Group,Conifer Management LLC,0.0560,Institution,#b11ee1
+Sinclair Broadcasting Group,Goldman Sachs Group Inc,0.0419,Institution,#c9b835
+Sinclair Broadcasting Group,Gamco Investors Inc,0.0385,Institution,#49b650
+Sinclair Broadcasting Group,Vaughan Nelson Investment Management,0.0352,Institution,#f9be06
+Sinclair Broadcasting Group,State Street Corporation,0.0173,Institution,#05e2ff
+Sinclair Broadcasting Group,Gabelli Funds LLC,0.0153,Institution,#a75871
+Sinclair Broadcasting Group,Vanguard Group Inc,0.0739,Institution,#651c9c
+Sinclair Broadcasting Group,Geode Capital Management LLC,0.0103,Institution,#76bf3d
+Sinclair Broadcasting Group,Jpmorgan Chase Co,0.0099,Institution,#42649e
+Sinclair Broadcasting Group,D E Shaw Co Inc,0.0098,Institution,#7eaa55
+Sinclair Broadcasting Group,Charles Schwab Investment Management,0.0097,Institution,#233c8c
+Sinclair Broadcasting Group,Canada Pension Plan Investment Board,0.0092,Institution,#5aa1a5
+Sinclair Broadcasting Group,Northern Trust Corp,0.0085,Institution,#ffb300
+Sinclair Broadcasting Group,Other Institution,0.1847,Institution,#000000
+Sinclair Broadcasting Group,Insider,0.0722,Insider,#797979
+Sinclair Broadcasting Group,Retail,0.0831,Retail,#ffffff
+Comcast,Vanguard Group Inc,0.0843,Institution,#651c9c
+Comcast,Blackrock Inc,0.0691,Institution,#0b0bff
+Comcast,Capital International Investors,0.0478,Institution,#8502ff
+Comcast,State Street Corp,0.0363,Institution,#05e2ff
+Comcast,Capital Research Global Investors,0.0293,Institution,#8502ff
+Comcast,Massachusetts Financial Services Co,0.0273,Institution,#c271b4
+Comcast,Capital World Investors,0.0244,Institution,#8502ff
+Comcast,Wellington Management Group Llp,0.0223,Institution,#5eff01
+Comcast,Fmr LLC,0.0219,Institution,#c8ff00
+Comcast,Dodge Cox,0.0185,Institution,#ebb3ff
+Comcast,Geode Capital Management LLC,0.0158,Institution,#76bf3d
+Comcast,Jpmorgan Chase Co,0.0155,Institution,#42649e
+Comcast,Bank Of America Corp,0.0148,Institution,#ff2f00
+Comcast,Clearbridge Investments LLC,0.0139,Institution,#ceef10
+Comcast,Price T Rowe Associates Inc,0.0115,Institution,#af03ff
+Comcast,Northern Trust Corp,0.0113,Institution,#ffb300
+Comcast,Ameriprise Financial Inc,0.0113,Institution,#ffcc00
+Comcast,Bank Of New York Mellon,0.0098,Institution,#fb02ff
+Comcast,Wells Fargo Company,0.0097,Institution,#fff700
+Comcast,Dimensional Fund Advisors LP,0.0088,Institution,#32524a
+Comcast,Nuveen Asset Management LLC,0.0083,Institution,#474429
+Comcast,Eagle Capital Management LLC 1,0.0083,Institution,#b14e55
+Comcast,Morgan Stanley,0.0080,Institution,#ff1097
+Comcast,Alliance Bernstein LP,0.0066,Institution,#3dc283
+Comcast,Vanguard Group Inc,0.0485,Institution,#651c9c
+Comcast,Dodge Cox,0.0104,Institution,#ebb3ff
+Comcast,Other Institution,0.2683,Institution,#000000
+Comcast,Insider,0.0066,Insider,#797979
+Comcast,Retail,0.1314,Retail,#ffffff
+AT&T,Vanguard Group Inc,0.0787,Institution,#651c9c
+AT&T,Blackrock Inc,0.0689,Institution,#0b0bff
+AT&T,State Street Corp,0.0403,Institution,#05e2ff
+AT&T,Newport Trust Co,0.0273,Institution,#4c8cb3
+AT&T,Geode Capital Management LLC,0.0162,Institution,#76bf3d
+AT&T,Northern Trust Corp,0.0111,Institution,#ffb300
+AT&T,Norges Bank Investment Management,0.0098,Institution,#b84785
+AT&T,Morgan Stanley,0.0093,Institution,#ff1097
+AT&T,Bank Of America Corp,0.0087,Institution,#ff2f00
+AT&T,Bank Of New York Mellon,0.0085,Institution,#fb02ff
+AT&T,Dimensional Fund Advisors LP,0.0080,Institution,#32524a
+AT&T,Wells Fargo Company,0.0068,Institution,#fff700
+AT&T,Charles Schwab Investment Management,0.0067,Institution,#233c8c
+AT&T,Legal General Group PLC,0.0064,Institution,#ff6200
+AT&T,Invesco Ltd,0.0052,Institution,#244513
+AT&T,Nuveen Asset Management LLC,0.0051,Institution,#474429
+AT&T,Swiss National Bank,0.0042,Institution,#e21d20
+AT&T,Nordea Investment Management Ab,0.0040,Institution,#5863a7
+AT&T,Ubs Asset Management Americas Inc,0.0040,Institution,#ccb762
+AT&T,California Public Employees Retirement,0.0039,Institution,#decf21
+AT&T,Franklin Resources Inc,0.0038,Institution,#4a2e32
+AT&T,State Farm Mutual Automobile Insurance Co,0.0038,Institution,#d04d2f
+AT&T,Ubs Group Ag,0.0037,Institution,#ccb762
+AT&T,Royal Bank Of Canada,0.0037,Institution,#dc4223
+AT&T,Price T Rowe Associates Inc,0.0035,Institution,#af03ff
+AT&T,Deutsche Bank Ag,0.0034,Institution,#b84757
+AT&T,Vanguard Group Inc,0.0673,Institution,#651c9c
+AT&T,Fidelity Investments,0.0093,Institution,#294a20
+AT&T,Other Institution,0.0924,Institution,#000000
+AT&T,Retail,0.4736,Retail,#ffffff
+AT&T,Insider,0.0024,Insider,#797979
+News Corp,Vanguard Group Inc,0.1317,Institution,#651c9c
+News Corp,Price T Rowe Associates Inc,0.1298,Institution,#af03ff
+News Corp,Independent Franchise Partners,0.0776,Institution,#6c937e
+News Corp,Blackrock Inc,0.0706,Institution,#0b0bff
+News Corp,State Street Corp,0.0451,Institution,#05e2ff
+News Corp,Yacktman Asset Management LP,0.0417,Institution,#7cad3d
+News Corp,Dodge Cox,0.0330,Institution,#ebb3ff
+News Corp,Hotchkis & Wiley Capital Management,0.0320,Institution,#fac705
+News Corp,Burgundy Asset Management Ltd,0.0244,Institution,#a85957
+News Corp,Geode Capital Management LLC,0.0194,Institution,#76bf3d
+News Corp,Sof Ltd,0.0166,Institution,#9b9a64
+News Corp,Dimensional Fund Advisors LP,0.0143,Institution,#32524a
+News Corp,Arrowstreet Capital Limited Partnership,0.0132,Institution,#d52a8d
+News Corp,Citadel Advisors LLC,0.0113,Institution,#0200ff
+News Corp,Goldman Sachs Group Inc,0.0109,Institution,#c9b835
+News Corp,Contour Asset Management LLC,0.0091,Institution,#2b44d4
+News Corp,Northern Trust Corp,0.0090,Institution,#ffb300
+News Corp,Darsana Capital Partners LP,0.0085,Institution,#57ae51
+News Corp,Bank Of New York Mellon,0.0080,Institution,#fb02ff
+News Corp,Artisan Partners Limited Partnership,0.0074,Institution,#af7050
+News Corp,Invesco Ltd,0.0070,Institution,#244513
+News Corp,Charles Schwab Investment Management,0.0067,Institution,#233c8c
+News Corp,Nuveen Asset Management LLC,0.0064,Institution,#474429
+News Corp,Legal General Group PLC,0.0061,Institution,#ff6200
+News Corp,Other Institution,0.0220,Institution,#000000
+News Corp,Insider,0.1297,Insider,#797979
+News Corp,Retail,0.1085,Retail,#ffffff
+ViacomCBS,Vanguard Group Inc,0.0998,Institution,#651c9c
+ViacomCBS,Blackrock Inc,0.0678,Institution,#0b0bff
+ViacomCBS,Amusements Inc National,0.0514,Insider,#80d827
+ViacomCBS,State Street Corp,0.0504,Institution,#05e2ff
+ViacomCBS,Credit Suisse Ag 1,0.0449,Institution,#43bca8
+ViacomCBS,Nomura Holdings Inc,0.0319,Institution,#6a6c95
+ViacomCBS,Jane Street Group LLC,0.0273,Institution,#2ed19c
+ViacomCBS,Susquehanna International Group Llp,0.0265,Institution,#ff00fb
+ViacomCBS,Toronto Dominion Bank,0.0218,Institution,#6a17e8
+ViacomCBS,Partners L. P. Bvf,0.0193,Insider,#718e77
+ViacomCBS,Geode Capital Management LLC,0.0178,Institution,#76bf3d
+ViacomCBS,Bank Of Nova Scotia,0.0165,Institution,#e2a31d
+ViacomCBS,Bank Of New York Mellon,0.0165,Institution,#fb02ff
+ViacomCBS,Hsbc Holdings PLC 1,0.0152,Institution,#2a34d5
+ViacomCBS,Goldman Sachs Group Inc,0.0126,Institution,#c9b835
+ViacomCBS,Bank Of America Corp,0.0120,Institution,#ff2f00
+ViacomCBS,Canada Pension Plan Investment Board,0.0108,Institution,#5aa1a5
+ViacomCBS,Ubs Group Ag,0.0106,Institution,#ccb762
+ViacomCBS,Citigroup Inc,0.0102,Institution,#b54a98
+ViacomCBS,Northern Trust Corp,0.0101,Institution,#ffb300
+ViacomCBS,Morgan Stanley,0.0101,Institution,#ff1097
+ViacomCBS,Marshall Wace Llp,0.0098,Institution,#8a54ab
+ViacomCBS,Millennium Management LLC,0.0097,Institution,#b3984c
+ViacomCBS,Insider,0.1254,Insider,#797979
+ViacomCBS,Retail,0.0036,Retail,#ffffff
+ViacomCBS,Other Institution,0.2681,Institution,#000000
+Amazon,Vanguard Group Inc,0.0647,Institution,#651c9c
+Amazon,Blackrock Inc,0.0555,Institution,#0b0bff
+Amazon,State Street Corp,0.0315,Institution,#05e2ff
+Amazon,Price T Rowe Associates Inc,0.0314,Institution,#af03ff
+Amazon,Fmr LLC,0.0304,Institution,#c8ff00
+Amazon,Geode Capital Management LLC,0.0131,Institution,#76bf3d
+Amazon,Morgan Stanley,0.0111,Institution,#ff1097
+Amazon,Northern Trust Corp,0.0097,Institution,#ffb300
+Amazon,Jpmorgan Chase Co,0.0086,Institution,#42649e
+Amazon,Bank Of America Corp,0.0085,Institution,#ff2f00
+Amazon,Bank Of New York Mellon,0.0078,Institution,#fb02ff
+Amazon,Capital Research Global Investors,0.0073,Institution,#8502ff
+Amazon,Nuveen Asset Management LLC,0.0064,Institution,#474429
+Amazon,Capital International Investors,0.0062,Institution,#8502ff
+Amazon,Capital World Investors,0.0062,Institution,#8502ff
+Amazon,Baillie Gifford Co,0.0058,Institution,#1de288
+Amazon,Jennison Associates LLC,0.0054,Institution,#a716e9
+Amazon,Wellington Management Group Llp,0.0052,Institution,#5eff01
+Amazon,Legal General Group PLC,0.0049,Institution,#ff6200
+Amazon,Janus Henderson Group PLC,0.0045,Institution,#5098af
+Amazon,Ubs Asset Management Americas Inc,0.0043,Institution,#ccb762
+Amazon,Invesco Ltd,0.0041,Institution,#244513
+Amazon,Wells Fargo Company,0.0041,Institution,#fff700
+Amazon,Insider,0.1073,Insider,#797979
+Amazon,Other Institution,0.2845,Institution,#000000
+Amazon,Retail,0.2715,Retail,#ffffff
+Disney,Vanguard Group Inc,0.0747,Institution,#651c9c
+Disney,Blackrock Inc,0.0641,Institution,#0b0bff
+Disney,State Street Corp,0.0388,Institution,#05e2ff
+Disney,State Farm Mutual Automobile Insurance Co,0.0210,Institution,#d04d2f
+Disney,Morgan Stanley,0.0177,Institution,#ff1097
+Disney,Fmr LLC,0.0171,Institution,#c8ff00
+Disney,Geode Capital Management LLC,0.0149,Institution,#76bf3d
+Disney,Bank Of America Corp,0.0145,Institution,#ff2f00
+Disney,Northern Trust Corp,0.0128,Institution,#ffb300
+Disney,Bank Of New York Mellon,0.0121,Institution,#fb02ff
+Disney,Price T Rowe Associates Inc,0.0117,Institution,#af03ff
+Disney,Franklin Resources Inc,0.0072,Institution,#4a2e32
+Disney,Royal Bank Of Canada,0.0068,Institution,#dc4223
+Disney,Nuveen Asset Management LLC,0.0065,Institution,#474429
+Disney,Loomis Sayles Co L P,0.0062,Institution,#40bf49
+Disney,Goldman Sachs Group Inc,0.0059,Institution,#c9b835
+Disney,Legal General Group PLC,0.0058,Institution,#ff6200
+Disney,Wells Fargo Company,0.0058,Institution,#fff700
+Disney,Invesco Ltd,0.0057,Institution,#244513
+Disney,Fisher Asset Management LLC,0.0057,Institution,#1e36e1
+Disney,Ubs Asset Management Americas Inc,0.0053,Institution,#ccb762
+Disney,Massachusetts Financial Services Co,0.0052,Institution,#c271b4
+Disney,Clearbridge Investments LLC,0.0049,Institution,#ceef10
+Disney,Jpmorgan Chase Co,0.0046,Institution,#42649e
+Disney,Insider,0.0090,Insider,#797979
+Disney,Other Institution,0.2790,Institution,#000000
+Disney,Retail,0.3370,Retail,#ffffff
+Google,Vanguard Group Inc,0.0661,Institution,#651c9c
+Google,Blackrock Inc,0.0597,Institution,#0b0bff
+Google,State Street Corp,0.0326,Institution,#05e2ff
+Google,Fmr LLC,0.0312,Institution,#c8ff00
+Google,Price T Rowe Associates Inc,0.0308,Institution,#af03ff
+Google,Geode Capital Management LLC,0.0141,Institution,#76bf3d
+Google,Northern Trust Corp,0.0113,Institution,#ffb300
+Google,Capital Research Global Investors,0.0107,Institution,#8502ff
+Google,Wellington Management Group Llp,0.0106,Institution,#5eff01
+Google,Jpmorgan Chase Co,0.0103,Institution,#42649e
+Google,Bank Of New York Mellon,0.0097,Institution,#fb02ff
+Google,Bank Of America Corp,0.0089,Institution,#ff2f00
+Google,Capital International Investors,0.0087,Institution,#8502ff
+Google,Morgan Stanley,0.0083,Institution,#ff1097
+Google,Nuveen Asset Management LLC,0.0070,Institution,#474429
+Google,Capital World Investors,0.0067,Institution,#8502ff
+Google,Alliance Bernstein LP,0.0060,Institution,#3dc283
+Google,Legal General Group PLC,0.0055,Institution,#ff6200
+Google,Tci Fund Management Ltd,0.0053,Institution,#6f7990
+Google,Massachusetts Financial Services Co,0.0052,Institution,#c271b4
+Google,Goldman Sachs Group Inc,0.0049,Institution,#c9b835
+Google,Insider,0.0935,Insider,#797979
+Google,Retail,0.2453,Retail,#ffffff
+Google,Other Institution,0.3076,Institution,#000000
+Facebook,Vanguard Group Inc,0.0646,Institution,#651c9c
+Facebook,Blackrock Inc,0.0557,Institution,#0b0bff
+Facebook,Fmr LLC,0.0441,Institution,#c8ff00
+Facebook,Price T Rowe Associates Inc,0.0369,Institution,#af03ff
+Facebook,Ix Lp Accel,0.0346,Insider,#a77a58
+Facebook,State Street Corp,0.0324,Institution,#05e2ff
+Facebook,Investment Strategies Llc Gs,0.0182,Insider,#6a9395
+Facebook,Capital International Investors,0.0172,Institution,#8502ff
+Facebook,Capital World Investors,0.0153,Institution,#8502ff
+Facebook,Capital Research Global Investors,0.0133,Institution,#8502ff
+Facebook,Geode Capital Management LLC,0.0133,Institution,#76bf3d
+Facebook,Global Ii Lp Dst,0.0121,Insider,#a77a58
+Facebook,Global Iii Lp Dst,0.0111,Insider,#a77a58
+Facebook,Northern Trust Corp,0.0096,Institution,#ffb300
+Facebook,Wellington Management Group Llp,0.0092,Institution,#5eff01
+Facebook,Morgan Stanley,0.0091,Institution,#ff1097
+Facebook,Jpmorgan Chase Co,0.0077,Institution,#42649e
+Facebook,Alliance Bernstein LP,0.0074,Institution,#3dc283
+Facebook,Bank Of New York Mellon,0.0072,Institution,#fb02ff
+Facebook,Bank Of America Corp,0.0072,Institution,#ff2f00
+Facebook,Nuveen Asset Management LLC,0.0064,Institution,#474429
+Facebook,Invesco Ltd,0.0058,Institution,#244513
+Facebook,Jennison Associates LLC,0.0053,Institution,#a716e9
+Facebook,Vanguard Group Inc,0.0569,Institution,#651c9c
+Facebook,Fidelity Investments,0.0279,Institution,#294a20
+Facebook,Price T Rowe Associates Inc,0.0091,Institution,#af03ff
+Facebook,Insider,0.0133,Insider,#797979
+Facebook,Retail,0.1851,Retail,#ffffff
+Facebook,Other Institution,0.2640,Institution,#000000
+Twitter,Morgan Stanley,0.0922,Institution,#ff1097
+Twitter,Vanguard Group Inc,0.0874,Institution,#651c9c
+Twitter,Blackrock Inc,0.0656,Institution,#0b0bff
+Twitter,State Street Corp,0.0432,Institution,#05e2ff
+Twitter,Llc Rtlc,0.0403,Insider,#2aa5d5
+Twitter,Fmr LLC,0.0243,Institution,#c8ff00
+Twitter,Aristotle Capital Management LLC,0.0240,Institution,#a42ad5
+Twitter,Clearbridge Investments LLC,0.0232,Institution,#ceef10
+Twitter,Morgan Digital Growth Fund Lp Jp,0.0209,Insider,#ff1097
+Twitter,Morgan Investment Management Inc Jp,0.0209,Insider,#ff1097
+Twitter,Ii Llc Rtlc,0.0209,Insider,#2aa5d5
+Twitter,Jpmorgan Chase Co,0.0206,Institution,#42649e
+Twitter,Geode Capital Management LLC,0.0167,Institution,#76bf3d
+Twitter,Northern Trust Corp,0.0148,Institution,#ffb300
+Twitter,Wellington Management Group Llp,0.0143,Institution,#5eff01
+Twitter,Nuveen Asset Management LLC,0.0106,Institution,#474429
+Twitter,Bank Of America Corp,0.0098,Institution,#ff2f00
+Twitter,Ark Investment Management LLC,0.0098,Institution,#897688
+Twitter,Elliott Investment Management LP,0.0088,Institution,#69a35c
+Twitter,Srs Investment Management LLC,0.0087,Institution,#3da9c2
+Twitter,Credit Suisse Ag 1,0.0087,Institution,#43bca8
+Twitter,Bank Of Montreal,0.0087,Institution,#30cf4d
+Twitter,Capital World Investors,0.0077,Institution,#8502ff
+Twitter,Bank Of New York Mellon,0.0071,Institution,#fb02ff
+Twitter,Vanguard Group Inc,0.0660,Institution,#651c9c
+Twitter,Morgan Stanley,0.0167,Institution,#ff1097
+Twitter,Fidelity Investments,0.0215,Institution,#294a20
+Twitter,Insider,0.0255,Insider,#797979
+Twitter,Retail,0.0694,Retail,#ffffff
+Twitter,Other Institution,0.1917,Institution,#000000
+AECOM,Primecap Management Co,0.1499,Institution,#45374d
+AECOM,Vanguard Group Inc,0.0917,Institution,#651c9c
+AECOM,Blackrock Inc,0.0850,Institution,#0b0bff
+AECOM,Fmr LLC,0.0718,Institution,#c8ff00
+AECOM,H. Whitney Equity Partners Vi Llc J.,0.0589,Insider,#66996d
+AECOM,Starboard Value LP,0.0534,Institution,#a328d7
+AECOM,Alliance Bernstein LP,0.0518,Institution,#3dc283
+AECOM,Barrow Hanley Mewhinney Strauss LLC,0.0513,Institution,#a56b5a
+AECOM,State Street Corp,0.0258,Institution,#05e2ff
+AECOM,Invesco Ltd,0.0199,Institution,#244513
+AECOM,Dimensional Fund Advisors LP,0.0150,Institution,#32524a
+AECOM,Geode Capital Management LLC,0.0119,Institution,#76bf3d
+AECOM,Bank Of New York Mellon,0.0099,Institution,#fb02ff
+AECOM,Citadel Advisors LLC,0.0092,Institution,#0200ff
+AECOM,Northern Trust Corp,0.0090,Institution,#ffb300
+AECOM,Charles Schwab Investment Management,0.0081,Institution,#233c8c
+AECOM,Owl Creek Asset Management LP,0.0060,Institution,#e01f81
+AECOM,Bank Of America Corp,0.0059,Institution,#ff2f00
+AECOM,Agf Investments Inc,0.0055,Institution,#d3e11e
+AECOM,Insider,0.0940,Insider,#797979
+AECOM,Other Institution,0.1660,Institution,#000000
+Louisiana-Pacific Corp,Blackrock Inc,0.1365,Institution,#0b0bff
+Louisiana-Pacific Corp,Vanguard Group Inc,0.1164,Institution,#651c9c
+Louisiana-Pacific Corp,Wellington Management Group Llp,0.0588,Institution,#5eff01
+Louisiana-Pacific Corp,Platinum Investment Management Ltd,0.0419,Institution,#36c987
+Louisiana-Pacific Corp,Macquarie Group Ltd,0.0335,Institution,#65649b
+Louisiana-Pacific Corp,State Street Corp,0.0325,Institution,#05e2ff
+Louisiana-Pacific Corp,Dimensional Fund Advisors LP,0.0285,Institution,#32524a
+Louisiana-Pacific Corp,Bank Of New York Mellon,0.0269,Institution,#fb02ff
+Louisiana-Pacific Corp,Goldman Sachs Group Inc,0.0200,Institution,#c9b835
+Louisiana-Pacific Corp,Geode Capital Management LLC,0.0175,Institution,#76bf3d
+Louisiana-Pacific Corp,Invesco Ltd,0.0174,Institution,#244513
+Louisiana-Pacific Corp,Northern Trust Corp,0.0163,Institution,#ffb300
+Louisiana-Pacific Corp,Fmr LLC,0.0155,Institution,#c8ff00
+Louisiana-Pacific Corp,Bank Of America Corp,0.0154,Institution,#ff2f00
+Louisiana-Pacific Corp,Charles Schwab Investment Management,0.0146,Institution,#233c8c
+Louisiana-Pacific Corp,Scopus Asset Management LP,0.0137,Institution,#a3dc23
+Louisiana-Pacific Corp,Marshall Wace North America LP,0.0133,Institution,#8a54ab
+Louisiana-Pacific Corp,D E Shaw Co Inc,0.0127,Institution,#7eaa55
+Louisiana-Pacific Corp,Nuveen Asset Management LLC,0.0123,Institution,#474429
+Louisiana-Pacific Corp,First Trust Advisors LP,0.0121,Institution,#66996f
+Louisiana-Pacific Corp,Lsv Asset Management,0.0120,Institution,#de6221
+Louisiana-Pacific Corp,Fuller Thaler Asset Management Inc,0.0112,Institution,#813dc2
+Louisiana-Pacific Corp,Acadian Asset Management LLC,0.0111,Institution,#b94a46
+Louisiana-Pacific Corp,Pictet Asset Management Ltd,0.0111,Institution,#61a659
+Louisiana-Pacific Corp,Channing Capital Management LLC,0.0101,Institution,#c426d9
+Louisiana-Pacific Corp,Insider,0.0276,Insider,#797979
+Louisiana-Pacific Corp,Retail,0.0159,Retail,#ffffff
+Louisiana-Pacific Corp,Other Institution,0.2452,Institution,#000000
+Albertsons,Cerberus Capital Management LP,0.3254,Institution,#b9467a
+Albertsons,Lubertadler Management Company LP,0.1192,Institution,#c0c53a
+Albertsons,Realty Corp Kimco,0.0854,Insider,#788c73
+Albertsons,Colony Capital Inc,0.0374,Institution,#ca33cc
+Albertsons,Digitalbridge Group Inc,0.0374,Institution,#11ee4c
+Albertsons,Massachusetts Financial Services Co,0.0128,Institution,#c271b4
+Albertsons,Blackrock Inc,0.0107,Institution,#0b0bff
+Albertsons,Private Management Group Inc,0.0049,Institution,#d2332d
+Albertsons,Jacobs Levy Equity Management Inc,0.0039,Institution,#50af61
+Albertsons,State Street Corp,0.0037,Institution,#05e2ff
+Albertsons,Bank Of Montreal,0.0029,Institution,#30cf4d
+Albertsons,Bank Of America Corp,0.0028,Institution,#ff2f00
+Albertsons,Vanguard Group Inc,0.0027,Institution,#651c9c
+Albertsons,Deprince Race Zollo Inc,0.0027,Institution,#a8a357
+Albertsons,Bank Of New York Mellon,0.0026,Institution,#fb02ff
+Albertsons,Seizert Capital Partners LLC,0.0025,Institution,#254bda
+Albertsons,Insider,0.1492,Insider,#797979
+Albertsons,Retail,0.1143,Retail,#ffffff
+Albertsons,Other Institution,0.0795,Institution,#000000
+Archer-Daniels-Midland Co,Vanguard Group Inc,0.1005,Institution,#651c9c
+Archer-Daniels-Midland Co,State Farm Mutual Automobile Insurance Co,0.0917,Institution,#d04d2f
+Archer-Daniels-Midland Co,Blackrock Inc,0.0674,Institution,#0b0bff
+Archer-Daniels-Midland Co,State Street Corp,0.0552,Institution,#05e2ff
+Archer-Daniels-Midland Co,Capital World Investors,0.0527,Institution,#8502ff
+Archer-Daniels-Midland Co,Wellington Management Group Llp,0.0349,Institution,#5eff01
+Archer-Daniels-Midland Co,Macquarie Group Ltd,0.0211,Institution,#65649b
+Archer-Daniels-Midland Co,Massachusetts Financial Services Co,0.0190,Institution,#c271b4
+Archer-Daniels-Midland Co,Geode Capital Management LLC,0.0172,Institution,#76bf3d
+Archer-Daniels-Midland Co,Northern Trust Corp,0.0168,Institution,#ffb300
+Archer-Daniels-Midland Co,Vi CTO Ry Capital Management Inc,0.0162,Institution,#a5b946
+Archer-Daniels-Midland Co,Bank Of New York Mellon,0.0108,Institution,#fb02ff
+Archer-Daniels-Midland Co,Diamond Hill Capital Management Inc,0.0102,Institution,#d52a81
+Archer-Daniels-Midland Co,Invesco Ltd,0.0095,Institution,#244513
+Archer-Daniels-Midland Co,Dimensional Fund Advisors LP,0.0080,Institution,#32524a
+Archer-Daniels-Midland Co,Legal General Group PLC,0.0078,Institution,#ff6200
+Archer-Daniels-Midland Co,Nordea Investment Management Ab,0.0076,Institution,#80c738
+Archer-Daniels-Midland Co,Morgan Stanley,0.0066,Institution,#ff1097
+Archer-Daniels-Midland Co,Amundi Asset Management Us Inc,0.0061,Institution,#3656c9
+Archer-Daniels-Midland Co,Bank Of America Corp,0.0060,Institution,#ff2f00
+Archer-Daniels-Midland Co,Deutsche Bank Ag,0.0059,Institution,#b84757
+Archer-Daniels-Midland Co,Charles Schwab Investment Management Inc,0.0056,Institution,#233c8c
+Archer-Daniels-Midland Co,Marathon Asset Management Llp,0.0053,Institution,#b84759
+Archer-Daniels-Midland Co,Franklin Resources Inc,0.0049,Institution,#4a2e32
+Archer-Daniels-Midland Co,Insider,0.04,Insider,#797979
+Archer-Daniels-Midland Co,Retail,0.1802,Retail,#ffffff
+Archer-Daniels-Midland Co,Other Institution,0.1928,Institution,#000000
+Best Buy,Vanguard Group Inc,0.1150,Institution,#651c9c
+Best Buy,Blackrock Inc,0.0838,Institution,#0b0bff
+Best Buy,Fmr LLC,0.0551,Institution,#c8ff00
+Best Buy,Jpmorgan Chase Co,0.0455,Institution,#42649e
+Best Buy,State Street Corp,0.0414,Institution,#05e2ff
+Best Buy,Ameriprise Financial Inc,0.0187,Institution,#ffcc00
+Best Buy,Geode Capital Management LLC,0.0178,Institution,#76bf3d
+Best Buy,Aqr Capital Management LLC,0.0142,Institution,#3027d8
+Best Buy,Bank Of New York Mellon,0.0131,Institution,#fb02ff
+Best Buy,Northern Trust Corp,0.0126,Institution,#ffb300
+Best Buy,Wells Fargo Company,0.0124,Institution,#fff700
+Best Buy,Charles Schwab Investment Management,0.0114,Institution,#233c8c
+Best Buy,Dimensional Fund Advisors LP,0.0106,Institution,#32524a
+Best Buy,Amundi Asset Management Us Inc,0.0102,Institution,#3656c9
+Best Buy,Lsv Asset Management,0.0100,Institution,#44335c
+Best Buy,Bank Of America Corp,0.0096,Institution,#ff2f00
+Best Buy,Legal General Group PLC,0.0092,Institution,#ff6200
+Best Buy,Janus Henderson Group PLC,0.0088,Institution,#5098af
+Best Buy,Boston Partners,0.0077,Institution,#b84796
+Best Buy,Raymond James Associates,0.0073,Institution,#4a7ab5
+Best Buy,Ubs Asset Management Americas Inc,0.0070,Institution,#ccb762
+Best Buy,Sumitomo Mitsui Trust Holdings Inc,0.0068,Institution,#db24b9
+Best Buy,Parametric Portfolio Associates LLC,0.0067,Institution,#563dc2
+Best Buy,Two Si GM A Advisers LP,0.0066,Institution,#38c79e
+Best Buy,Insider,0.1380,Insider,#797979
+Best Buy,Retail,0.0890,Retail,#ffffff
+Best Buy,Other Institution,0.2315,Institution,#000000
+Ameriprise Financial Inc,Berkshire Hathaway Inc,0.3684,Insider,#c7996f
+Ameriprise Financial Inc,Vanguard Group Inc,0.1167,Institution,#651c9c
+Ameriprise Financial Inc,Blackrock Inc,0.0773,Institution,#0b0bff
+Ameriprise Financial Inc,State Street Corp,0.0474,Institution,#05e2ff
+Ameriprise Financial Inc,Jpmorgan Chase Co,0.0389,Institution,#42649e
+Ameriprise Financial Inc,Aristotle Capital Management LLC,0.0379,Institution,#a42ad5
+Ameriprise Financial Inc,Bank Of New York Mellon,0.0217,Institution,#fb02ff
+Ameriprise Financial Inc,Lsv Asset Management,0.0203,Institution,#44335c
+Ameriprise Financial Inc,Geode Capital Management LLC,0.0190,Institution,#76bf3d
+Ameriprise Financial Inc,Boston Partners,0.0184,Institution,#b84796
+Ameriprise Financial Inc,Ubs Asset Management Americas Inc,0.0180,Institution,#ccb762
+Ameriprise Financial Inc,Ubs Group Ag,0.0170,Institution,#ccb762
+Ameriprise Financial Inc,Lyrical Asset Management LP,0.0164,Institution,#a6c43b
+Ameriprise Financial Inc,Northern Trust Corp,0.0131,Institution,#ffb300
+Ameriprise Financial Inc,American Century Companies Inc,0.0129,Institution,#12ed76
+Ameriprise Financial Inc,Lord Abbett Co LLC,0.0109,Institution,#12ed76
+Ameriprise Financial Inc,Fmr LLC,0.0100,Institution,#c8ff00
+Ameriprise Financial Inc,Dimensional Fund Advisors LP,0.0096,Institution,#32524a
+Ameriprise Financial Inc,Royal Bank Of Canada,0.0095,Institution,#dc4223
+Ameriprise Financial Inc,Morgan Stanley,0.0090,Institution,#ff1097
+Ameriprise Financial Inc,Beutel Goodman Co Ltd,0.0089,Institution,#3823dc
+Ameriprise Financial Inc,Invesco Ltd,0.0082,Institution,#244513
+Ameriprise Financial Inc,Brown Advisory Inc,0.0082,Institution,#a66f59
+Ameriprise Financial Inc,Bank Of America Corp,0.0078,Institution,#ff2f00
+Ameriprise Financial Inc,Parametric Portfolio Associates LLC,0.0078,Institution,#563dc2
+Ameriprise Financial Inc,Insider,0.0022,Insider,#797979
+Ameriprise Financial Inc,Retail,0.0400,Retail,#ffffff
+Ameriprise Financial Inc,Other Institution,0.0245,Institution,#000000
+Bank Of New York Mellon,Berkshire Hathaway Inc,0.1007,Insider,#c7996f
+Bank Of New York Mellon,Berkshire Hathaway Inc,0.0826,Institution,#c7996f
+Bank Of New York Mellon,Vanguard Group Inc,0.0790,Institution,#651c9c
+Bank Of New York Mellon,Dodge Cox,0.0702,Institution,#ebb3ff
+Bank Of New York Mellon,Blackrock Inc,0.0681,Institution,#0b0bff
+Bank Of New York Mellon,State Street Corp,0.0433,Institution,#05e2ff
+Bank Of New York Mellon,Fmr LLC,0.0266,Institution,#c8ff00
+Bank Of New York Mellon,Longview Partners Guernsey Ltd,0.0228,Institution,#45572f
+Bank Of New York Mellon,Artisan Partners Limited Partnership,0.0226,Institution,#af7050
+Bank Of New York Mellon,American Century Companies Inc,0.0201,Institution,#12ed76
+Bank Of New York Mellon,First Eagle Investment Management LLC,0.0190,Institution,#1de24a
+Bank Of New York Mellon,Davis Selected Advisers,0.0172,Institution,#afbf40
+Bank Of New York Mellon,Geode Capital Management LLC,0.0147,Institution,#76bf3d
+Bank Of New York Mellon,Invesco Ltd,0.0119,Institution,#244513
+Bank Of New York Mellon,Wells Fargo Company,0.0108,Institution,#fff700
+Bank Of New York Mellon,Northern Trust Corp,0.0102,Institution,#ffb300
+Bank Of New York Mellon,Dimensional Fund Advisors LP,0.0093,Institution,#32524a
+Bank Of New York Mellon,Hotchkis Wiley Capital Management LLC,0.0093,Institution,#8a84b8
+Bank Of New York Mellon,Fayez Sarofim Co,0.0084,Institution,#55f40b
+Bank Of New York Mellon,Nuveen Asset Management LLC,0.0076,Institution,#474429
+Bank Of New York Mellon,Legal General Group PLC,0.0075,Institution,#ff6200
+Bank Of New York Mellon,Price T Rowe Associates Inc,0.0071,Institution,#af03ff
+Bank Of New York Mellon,Bank Of New York Mellon,0.0067,Institution,#fb02ff
+Bank Of New York Mellon,Insider,0.0433,Insider,#797979
+Bank Of New York Mellon,Retail,0.1100,Retail,#ffffff
+Bank Of New York Mellon,Other Institution,0.171,Institution,#000000
+Morgan Stanley,Mitsubishi Ufj Financial Group Inc,0.2027,Institution,#7d9768
+Morgan Stanley,Investment Corp China,0.1134,Insider,#cb3734
+Morgan Stanley,State Street Corp,0.0711,Institution,#05e2ff
+Morgan Stanley,Vanguard Group Inc,0.0650,Institution,#651c9c
+Morgan Stanley,Blackrock Inc,0.0642,Institution,#0b0bff
+Morgan Stanley,Price T Rowe Associates Inc,0.0371,Institution,#af03ff
+Morgan Stanley,Jpmorgan Chase Co,0.0296,Institution,#42649e
+Morgan Stanley,Fmr LLC,0.0240,Institution,#c8ff00
+Morgan Stanley,Wellington Management Group Llp,0.0182,Institution,#5eff01
+Morgan Stanley,Geode Capital Management LLC,0.0125,Institution,#76bf3d
+Morgan Stanley,Bank Of America Corp,0.0118,Institution,#ff2f00
+Morgan Stanley,Ameriprise Financial Inc,0.0096,Institution,#ffcc00
+Morgan Stanley,Northern Trust Corp,0.0093,Institution,#ffb300
+Morgan Stanley,Nuveen Asset Management LLC,0.0091,Institution,#474429
+Morgan Stanley,Janus Henderson Group PLC,0.0075,Institution,#5098af
+Morgan Stanley,Bank Of New York Mellon,0.0073,Institution,#fb02ff
+Morgan Stanley,Massachusetts Financial Services Co,0.0072,Institution,#c271b4
+Morgan Stanley,Dimensional Fund Advisors LP,0.0067,Institution,#32524a
+Morgan Stanley,Invesco Ltd,0.0066,Institution,#244513
+Morgan Stanley,Eagle Capital Management LLC 1,0.0064,Institution,#b14e55
+Morgan Stanley,Primecap Management Co,0.0063,Institution,#45374d
+Morgan Stanley,Fisher Asset Management LLC,0.0051,Institution,#1e36e1
+Morgan Stanley,Legal General Group PLC,0.0050,Institution,#ff6200
+Morgan Stanley,Manufacturers Life Insurance Company The,0.0048,Institution,#bd6f91
+Morgan Stanley,Insider,0.0929,Insider,#797979
+Morgan Stanley,Retail,0.1666,Retail,#ffffff
+Northern Trust Corp,Vanguard Group Inc,0.1052,Institution,#651c9c
+Northern Trust Corp,Blackrock Inc,0.0697,Institution,#0b0bff
+Northern Trust Corp,State Street Corp,0.0458,Institution,#05e2ff
+Northern Trust Corp,Jpmorgan Chase Co,0.0349,Institution,#42649e
+Northern Trust Corp,Northern Trust Corp,0.0323,Institution,#ffb300
+Northern Trust Corp,Fmr LLC,0.0319,Institution,#c8ff00
+Northern Trust Corp,American Century Companies Inc,0.0251,Institution,#12ed76
+Northern Trust Corp,State Farm Mutual Automobile Insurance Co,0.0237,Institution,#d04d2f
+Northern Trust Corp,Barrow Hanley Mewhinney Strauss LLC,0.0219,Institution,#a56b5a
+Northern Trust Corp,Ameriprise Financial Inc,0.0209,Institution,#ffcc00
+Northern Trust Corp,Primecap Management Co,0.0191,Institution,#45374d
+Northern Trust Corp,Price T Rowe Associates Inc,0.0179,Institution,#af03ff
+Northern Trust Corp,Geode Capital Management LLC,0.0172,Institution,#76bf3d
+Northern Trust Corp,Fiduciary Management Inc,0.0138,Institution,#5491ab
+Northern Trust Corp,Nuance Investments LLC,0.0136,Institution,#b24d98
+Northern Trust Corp,Charles Schwab Investment Management,0.0118,Institution,#233c8c
+Northern Trust Corp,Goldman Sachs Group Inc,0.0116,Institution,#c9b835
+Northern Trust Corp,Massachusetts Financial Services Co,0.0115,Institution,#c271b4
+Northern Trust Corp,Invesco Ltd,0.0102,Institution,#244513
+Northern Trust Corp,Nn Investment Partners Holdings Nv,0.0102,Institution,#67c03f
+Northern Trust Corp,Champlain Investment Partners LLC,0.0093,Institution,#cd3f32
+Northern Trust Corp,Ariel Investments LLC,0.0085,Institution,#6d4db2
+Northern Trust Corp,Bank Of New York Mellon,0.0082,Institution,#fb02ff
+Northern Trust Corp,Wellington Management Group Llp,0.0081,Institution,#5eff01
+Northern Trust Corp,Vanguard Group Inc,0.0686,Institution,#651c9c
+Northern Trust Corp,Fidelity Investments,0.0083,Institution,#294a20
+Northern Trust Corp,Price T Rowe Associates Inc,0.0095,Institution,#af03ff
+Northern Trust Corp,Jpmorgan Chase Co,0.0088,Institution,#42649e
+Northern Trust Corp,Insider,0.0566,Insider,#797979
+Northern Trust Corp,Retail,0.1055,Retail,#ffffff
+Northern Trust Corp,Other Institution,0.1603,Institution,#000000
+General Mills Inc,Vanguard Group Inc,0.0842,Institution,#651c9c
+General Mills Inc,Blackrock Inc,0.0781,Institution,#0b0bff
+General Mills Inc,State Street Corp,0.0533,Institution,#05e2ff
+General Mills Inc,Capital International Investors,0.0417,Institution,#8502ff
+General Mills Inc,Capital Research Global Investors,0.0389,Institution,#8502ff
+General Mills Inc,Capital World Investors,0.0296,Institution,#8502ff
+General Mills Inc,Invesco Ltd,0.0268,Institution,#244513
+General Mills Inc,Charles Schwab Investment Management,0.0176,Institution,#233c8c
+General Mills Inc,Geode Capital Management LLC,0.0147,Institution,#76bf3d
+General Mills Inc,Northern Trust Corp,0.0131,Institution,#ffb300
+General Mills Inc,Jensen Investment Management Inc,0.0112,Institution,#51a8ae
+General Mills Inc,Bank Of New York Mellon,0.0098,Institution,#fb02ff
+General Mills Inc,Bank Of America Corp,0.0097,Institution,#ff2f00
+General Mills Inc,Morgan Stanley,0.0096,Institution,#ff1097
+General Mills Inc,Wells Fargo Company,0.0078,Institution,#fff700
+General Mills Inc,California Public Employees Retirement,0.0075,Institution,#decf21
+General Mills Inc,Legal General Group PLC,0.0074,Institution,#ff6200
+General Mills Inc,Lsv Asset Management,0.0071,Institution,#44335c
+General Mills Inc,Royal Bank Of Canada,0.0069,Institution,#dc4223
+General Mills Inc,Federated Hermes Inc,0.0069,Institution,#ad9e52
+General Mills Inc,Ubs Asset Management Americas Inc,0.0065,Institution,#ccb762
+General Mills Inc,Swiss National Bank,0.0051,Institution,#e21d20
+General Mills Inc,Goldman Sachs Group Inc,0.0051,Institution,#c9b835
+General Mills Inc,Deutsche Bank Ag,0.0050,Institution,#b84757
+General Mills Inc,Renaissance Technologies LLC,0.0049,Institution,#53ac71
+General Mills Inc,Income Fund of America,0.0380,Institution,#1b40e4
+General Mills Inc,Vanguard Group Inc,0.0490,Institution,#651c9c
+General Mills Inc,Invesco Ltd,0.0103,Institution,#244513
+General Mills Inc,Fidelity Investments,0.0096,Institution,#244513
+General Mills Inc,Insider,0.0135,Insider,#797979
+General Mills Inc,Retail,0.1982,Retail,#ffffff
+General Mills Inc,Other Institution,0.1729,Institution,#000000
+Ubs Group Ag,Norges Bank Investment Management,0.0443,Institution,#b84785
+Ubs Group Ag,Massachusetts Financial Services Co,0.0341,Institution,#c271b4
+Ubs Group Ag,Ubs Group Ag,0.0331,Institution,#ccb762
+Ubs Group Ag,Credit Suisse Ag 1,0.0302,Institution,#43bca8
+Ubs Group Ag,Vanguard Group Inc,0.0274,Institution,#651c9c
+Ubs Group Ag,Dodge Cox,0.0231,Institution,#ebb3ff
+Ubs Group Ag,Capital International Investors,0.0124,Institution,#8502ff
+Ubs Group Ag,Wellington Management Group Llp,0.0113,Institution,#5eff01
+Ubs Group Ag,Zurcher Kantonalbank Z URI Ch Cantonalbank,0.0108,Institution,#59c53a
+Ubs Group Ag,Goldman Sachs Group Inc,0.0105,Institution,#c9b835
+Ubs Group Ag,Pictet Asset Management Ltd,0.0084,Institution,#61a659
+Ubs Group Ag,Deutsche Bank Ag,0.0059,Institution,#b84757
+Ubs Group Ag,Allianz Asset Management GM Bh,0.0057,Institution,#84639c
+Ubs Group Ag,Fmr LLC,0.0055,Institution,#c8ff00
+Ubs Group Ag,Brandes Investment Partners LP,0.0045,Institution,#dd3f22
+Ubs Group Ag,Royal Bank Of Canada,0.0043,Institution,#dc4223
+Ubs Group Ag,Jpmorgan Chase Co,0.0043,Institution,#42649e
+Ubs Group Ag,Dz Bank Ag Deutsche Zentral Genossenschafts Bank Frankfurt Am Main,0.0042,Institution,#b84757
+Ubs Group Ag,Amundi Asset Management Us Inc,0.0039,Institution,#3656c9
+Ubs Group Ag,Dekabank Deutsche Girozentrale,0.0034,Institution,#b84757
+Ubs Group Ag,Bank Of America Corp,0.0023,Institution,#ff2f00
+Ubs Group Ag,Russell Investments Group Ltd,0.0022,Institution,#6332cd
+Ubs Group Ag,Bank Of New York Mellon,0.0022,Institution,#fb02ff
+Ubs Group Ag,Bank Of Montreal,0.0020,Institution,#30cf4d
+Ubs Group Ag,Gqg Partners LLC,0.0019,Institution,#ee1184
+Ubs Group Ag,Ameriprise Financial Inc,0.0019,Institution,#ffcc00
+Ubs Group Ag,Dodge Cox,0.0194,Institution,#ebb3ff
+Ubs Group Ag,Vanguard Group Inc,0.0164,Institution,#651c9c
+Ubs Group Ag,Fidelity Investments,0.0360,Institution,#244513
+Ubs Group Ag,Insider,0.0005,Insider,#797979
+Ubs Group Ag,Retail,0.4544,Retail,#ffffff
+Ubs Group Ag,Other Institution,0.1735,Institution,#000000
+Netflix,Vanguard Group Inc,0.0751,Institution,#651c9c
+Netflix,Blackrock Inc,0.0651,Institution,#0b0bff
+Netflix,Capital Research Global Investors,0.0645,Institution,#8502ff
+Netflix,Price T Rowe Associates Inc,0.0441,Institution,#af03ff
+Netflix,Fmr LLC,0.0439,Institution,#c8ff00
+Netflix,Capital International Investors,0.0382,Institution,#8502ff
+Netflix,State Street Corp,0.0358,Institution,#05e2ff
+Netflix,Capital World Investors,0.0305,Institution,#8502ff
+Netflix,Baillie Gifford Co,0.0185,Institution,#1de288
+Netflix,Jennison Associates LLC,0.0165,Institution,#a716e9
+Netflix,Geode Capital Management LLC,0.0153,Institution,#76bf3d
+Netflix,Sands Capital Management LLC,0.0118,Institution,#fabd05
+Netflix,Magellan Asset Management Ltd,0.0117,Institution,#649b74
+Netflix,Northern Trust Corp,0.0108,Institution,#ffb300
+Netflix,Jpmorgan Chase Co,0.0093,Institution,#42649e
+Netflix,Morgan Stanley,0.0091,Institution,#ff1097
+Netflix,Fisher Asset Management LLC,0.0087,Institution,#1e36e1
+Netflix,Edgewood Management LLC,0.0086,Institution,#aac738
+Netflix,Iv Lp Tcv,0.0086,Insider,#2aa5d5
+Netflix,Bank Of New York Mellon,0.0081,Institution,#fb02ff
+Netflix,Janus Henderson Group PLC,0.0074,Institution,#5098af
+Netflix,Vanguard Group Inc,0.0484,Institution,#651c9c
+Netflix,Fidelity Investments,0.0226,Institution,#294a20
+Netflix,Price T Rowe Associates Inc,0.0102,Institution,#af03ff
+Netflix,Insider,0.0602,Insider,#797979
+Netflix,Retail,0.1323,Retail,#ffffff
+Netflix,Other Institution,0.1847,Institution,#000000
+Money Inc,Money Inc,0.3333,Institution,#ff0000
+Money Inc,Fat Money,0.3333,Institution,#00ff00
+Money Inc,Money Castle,0.3334,Institution,#0000ff
+Money Inc,Self,1E-09,Self,#ff0000
+Fat Money,Money Inc,0.3333,Institution,#ff0000
+Fat Money,Fat Money,0.3333,Institution,#00ff00
+Fat Money,Money Castle,0.3334,Institution,#0000ff
+Fat Money,Self,1E-09,Self,#00ff00
+Money Castle,Money Inc,0.3333,Institution,#ff0000
+Money Castle,Fat Money,0.3333,Institution,#00ff00
+Money Castle,Money Castle,0.3334,Institution,#0000ff
+Money Castle,Self,1E-09,Self,#0000ff
+HinkeyPoo,Retail,0.2000,Retail,#ffffff
+HinkeyPoo,The Grand Christmas Poobah,0.2000,Insider,#797979
+HinkeyPoo,Money Inc,0.2000,Institution,#ff0000
+HinkeyPoo,Fat Money,0.2000,Institution,#00ff00
+HinkeyPoo,Money Castle,0.2000,Institution,#0000ff
+The Grand Christmas Poobah,The Grand Christmas Poobah,1,Insider,#797979
